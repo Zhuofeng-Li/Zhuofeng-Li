@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋. I am Zhuofeng Li.
 
 <!--
 **Zhuofeng-Li/Zhuofeng-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋. I am Zhuofeng Li.
 
 - 🔭 I’m an incoming CS Ph.D. student at Texas A&M University, advised by Prof. Yu Zhang.
 - 🌱 My current research interests lie in Agents, Reasoning LLMs and RL.
