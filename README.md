@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 🌱 My current research interests lie in Agents, Reasoning LLMs and RL.
 - 📫 How to reach me: zhuofengli12345@gmail.com
 
-[![Zhuofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhuofeng-Li)]()
