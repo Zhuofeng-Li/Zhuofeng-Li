@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m an incoming CS Ph.D. student at Texas A&M University, advised by Prof. Yu Zhang.
+- 🔭 I’m an incoming CS Ph.D. student at Texas A&M University, advised by [Prof. Yu Zhang](https://yuzhimanhua.github.io/).
 - 🌱 My current research interests lie in Agents, Reasoning LLMs and RL.
 - 📫 How to reach me: zhuofengli12345@gmail.com
 
