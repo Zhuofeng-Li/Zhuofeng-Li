@@ -1,4 +1,4 @@
-## Hi there 👋. I am Zhuofeng Li.
+## Hi there 👋 I am Zhuofeng Li
 
 <!--
 **Zhuofeng-Li/Zhuofeng-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a CS Ph.D. student at Texas A&M University, advised by [Prof. Yu Zhang](https://yuzhimanhua.github.io/).
-- 🌱 My current research interests lie in Agents, Reasoning LLMs and RL.
-- 📫 How to reach me: zhuofengli12345@gmail.com
+- 🔭 I’m a CS Ph.D. student at Texas A&M University, advised by [Prof. Yu Zhang](https://yuzhimanhua.github.io/)
+- 🌱 My current research interests lie in Agents, Reasoning LLMs and RL
+- 🚀 During my research journey, I as a **core contributor** built [**AgentFlow**](https://github.com/PeterGriffinJin/AgentFlow) (150+⭐) and [**VerlTool**](https://github.com/OpenRL-Lab/verl) (500+⭐) to push the boundaries of **agentic reasoning**
+- 📫 I’m happy to connect! Please reach me at zhuofengli12345@gmail.com
+
+
+
 
