@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a CS Ph.D. student at Texas A&M University, advised by [Prof. Yu Zhang](https://yuzhimanhua.github.io/)
+- 🔭 I’m a CS Ph.D. student at Texas A&M University, advised by [Prof. Yu Zhang](https://yuzhimanhua.github.io/). I was also a visiting student at Stanford University, working with [Prof. Yejin Choi](https://yejinc.github.io/) and [Prof. James Zou](https://www.james-zou.com/).
 - 🌱 My current research interests lie in Agents, Reasoning LLMs and RL
-- 🚀 During my research journey, I as a **core contributor** built [**AgentFlow**](https://github.com/lupantech/AgentFlow) (1.5k+⭐) and [**VerlTool**](https://github.com/TIGER-AI-Lab/verl-tool) (850+⭐) to push the boundaries of **agentic reasoning**
+- 🚀 During my research journey, I as a **core contributor** built [**AgentFlow**](https://github.com/lupantech/AgentFlow) (1.6k+⭐) and [**VerlTool**](https://github.com/TIGER-AI-Lab/verl-tool) (850+⭐) to push the boundaries of **agentic reasoning**
 - 📫 I’m happy to connect! Please reach me at zhuofengli12345@gmail.com
 
 
