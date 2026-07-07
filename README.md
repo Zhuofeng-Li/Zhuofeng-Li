@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a CS Ph.D. student at Texas A&M University, advised by [Prof. Yu Zhang](https://yuzhimanhua.github.io/). I was also a visiting student at Stanford University, working with [Prof. Yejin Choi](https://yejinc.github.io/) and [Prof. James Zou](https://www.james-zou.com/).
 - 🌱 My current research interests lie in Agentic RL, Agentic System and LLM Post-training. 
-- 🚀 During my research journey, I lead / co-lead [**AgentFlow**](https://github.com/lupantech/AgentFlow) (ICLR 2026 Oral & 2k+⭐), [**VerlTool**](https://github.com/TIGER-AI-Lab/verl-tool) (ICLR 2026 SPOT Best Paper & 1k+⭐), [**DCI-Agent**](https://github.com/DCI-Agent/DCI-Agent-Lite) (300+⭐) and [**OpenResearcher**](https://github.com/TIGER-AI-Lab/OpenResearcher) (700+⭐) to push the boundaries of **agents**.
+- 🚀 During my research journey, I lead / co-lead [**AgentFlow**](https://github.com/lupantech/AgentFlow) (ICLR 2026 Oral & 2k+⭐), [**VerlTool**](https://github.com/TIGER-AI-Lab/verl-tool) (ICLR 2026 SPOT Best Paper & 1k+⭐), [**DCI-Agent**](https://github.com/DCI-Agent/DCI-Agent-Lite) (350+⭐) and [**OpenResearcher**](https://github.com/TIGER-AI-Lab/OpenResearcher) (800+⭐) to push the boundaries of **agents**.
 - 📫 I’m happy to connect! Please reach me at zhuofengli12345@gmail.com
 
 
